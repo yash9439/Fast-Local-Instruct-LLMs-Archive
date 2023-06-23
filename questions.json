@@ -6,6 +6,6 @@
         "query_string": "What are Open Source Models?"
     },
     {
-        "query_string": "What are the importance of College?"
+        "query_string": "What are Transformers?"
     }
 ]
